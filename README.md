@@ -12,4 +12,9 @@
 🔹 Created 20 interactive Power BI dashboards
 
 **The ITI examination system project is a thorough, well-organized project that offers a practical, cost-effective method for administering tests, keeping track of outcomes, and analyzing them.**
-
+ #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**
